@@ -1,0 +1,2 @@
+com.midgard.identity.provider.DiscordIdentityProviderFactory
+com.midgard.identity.provider.SteamIdentityProviderFactory

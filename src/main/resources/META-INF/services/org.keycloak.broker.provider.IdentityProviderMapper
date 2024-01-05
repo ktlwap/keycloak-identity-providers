@@ -1,0 +1,2 @@
+com.midgard.identity.provider.attribute.mapper.DiscordUserAttributeMapper
+com.midgard.identity.provider.attribute.mapper.SteamUserAttributeMapper
